@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/REX_Mentor-Mentee/static/css/main.e93b838e.css",
+    "main.js": "/REX_Mentor-Mentee/static/js/main.51f3df1f.js",
+    "static/media/mentor_mentee_preferences.xlsx": "/REX_Mentor-Mentee/static/media/mentor_mentee_preferences.c25ef61e69b866b5da8e.xlsx",
+    "index.html": "/REX_Mentor-Mentee/index.html",
+    "main.e93b838e.css.map": "/REX_Mentor-Mentee/static/css/main.e93b838e.css.map",
+    "main.51f3df1f.js.map": "/REX_Mentor-Mentee/static/js/main.51f3df1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e93b838e.css",
+    "static/js/main.51f3df1f.js"
+  ]
+}
